@@ -1,2 +1,3 @@
 # Assignments
-In this folder are stored the assignments to complete day by day
+
+The folder stores the assigments uploaded day by day.
