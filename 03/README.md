@@ -5,7 +5,7 @@
 ## 1. Game of Thrones - Dig into the battles!
 
 <p align="center">
-  <img src="image/got.jpg" alt="Jon & Sansa"/>
+  <img src="Image/got.jpg" alt="Jon & Sansa"/>
 </p>
 
 
